@@ -41,7 +41,7 @@ pipeline {
 
   environment {
     HOME = '.'
-    CYPRESS_CACHE_FOLDER = '/root/.cache/Cypress'
+    // CYPRESS_CACHE_FOLDER = '/root/.cache/Cypress'
   }
 
   stages {
